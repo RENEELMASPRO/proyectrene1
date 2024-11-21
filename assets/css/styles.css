@@ -1,0 +1,32 @@
+#item3:hover {
+  border-bottom: 3px;
+  border-color: var(--bs-red);
+}
+
+#boton {
+  background-color: #952630;
+}
+
+#boton:hover {
+  background-color: #e0172a;
+}
+
+#nav2 {
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+}
+
+#nav1 {
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+}
+
+#nav2 {
+  align-content: end;
+  color: var(--bs-indigo);
+}
+
+#icono:hover {
+  color: #e0172a;
+}
+
